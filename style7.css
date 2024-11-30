@@ -1,0 +1,9 @@
+.holder > ul > li > [href*="https"] {
+    color: red
+}
+
+.holder ul + p {
+    font-size: 24px;
+}
+
+
